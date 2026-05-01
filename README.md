@@ -1,7 +1,9 @@
-🇮🇳 Indian Air Quality Index (AQI) Dashboard
+🇮🇳 Indian Air Quality Index (AQI) Dashboard \n
+
 A dynamic, interactive Power BI dashboard designed to visualize and analyze air quality data across India. The dashboard highlights pollution trends, regional comparisons, and key pollutant metrics for informed decision-making.
 
 Short Description / Purpose
+
 The Indian AQI Dashboard is an interactive Power BI report that provides insights into air pollution levels across major cities and states in India. It enables policymakers, environmentalists, and citizens to monitor air quality trends and identify areas requiring intervention.
 
 Tech Stack
